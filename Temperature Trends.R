@@ -1,8 +1,3 @@
-''This R code conducts a comprehensive analysis of historical temperature data across various states and time periods.
-It begins by examining January temperatures in Iowa, Maine, Oklahoma, and Washington, generating a boxplot to visualize their distribution and calculating summary statistics (median, minimum, and maximum temperatures) to rank the states from coldest to warmest. 
-For Oklahoma, the code analyzes August temperature anomalies by comparing historical data to the 20th-century mean, presenting the changes through a time-series graph with a smoothed trend line spanning from 1895 to the present. 
-Additionally, it explores temperature trends in Wyoming from 1980 onward, creating a faceted time-series graph by month with smoothed trend lines to highlight seasonal patterns. 
-This analysis provides valuable insights into temperature distributions, anomalies, and trends over time across different regions.''
 
 library(ggplot2)
 library(dplyr)
