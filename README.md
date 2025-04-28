@@ -1,1 +1,2 @@
 # Advanced-GIS-and-Spatial-Analysis
+This repository contains projects focused on climate and environmental data analysis using R. Topics include climate trend analysis, land surface temperature (LST) analysis, land cover change detection, and temperature trend evaluation. The projects emphasize building fundamental R programming skills while applying statistical and spatial techniques to understand patterns and changes in the Earth's climate system.
